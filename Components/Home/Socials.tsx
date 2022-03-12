@@ -71,7 +71,7 @@ function Socials() {
                                                 <MetaMask />
                                                 <div className="hidden md:flex md:flex-col space-y-5 text-primary" >
                                                     <p>Download MetaMask for Browser</p>
-                                                    <Link href="https://metamask.io/" target="_blank" >
+                                                    <Link href="https://metamask.io/"  >
                                                     <a className="hover:text-slate-300 text-white underline">
                                                     MetaMask Website
                                                         </a></Link>
@@ -82,12 +82,12 @@ function Socials() {
                                                     If you cannot click this button download a metamask wallet and go to this website in the browser on there.
                                                 </p>
                                                 <br />
-                                            <Link href="https://apps.apple.com/us/app/metamask-blockchain-wallet/id1438144202" target="_blank">
+                                            <Link href="https://apps.apple.com/us/app/metamask-blockchain-wallet/id1438144202" >
                                                     <a className="hover:text-slate-300 text-white underline">
                                                     MetaMask IOS
                                                         </a></Link>
                                             <br/>
-                                             <Link href="https://play.google.com/store/apps/details?id=io.metamask&hl=en_US&gl=US" target="_blank" >
+                                             <Link href="https://play.google.com/store/apps/details?id=io.metamask&hl=en_US&gl=US"  >
                                                     <a className="hover:text-slate-300 text-white underline">
                                                         MetaMask Andriod
                                                         </a></Link>
@@ -113,7 +113,7 @@ function Socials() {
                             <br/>
                             </div>
                             <div>
-                        <Link href="https://medium.com/@xrdao" target="_blank" >
+                        <Link href="https://medium.com/@xrdao"  >
                             <div className="">
                                 <div className="h-min w-min"> <Medium />
                                     </div>
@@ -131,16 +131,16 @@ function Socials() {
                             <h1 className="px-10 xl:text-6xl text-center justify-self-end md:text-4xl text-2xl"> Other Socials</h1>
                             </div>
                         <div className="flex space-x-3 md:space-x-10">
-                            <Link href="https://www.reddit.com/r/XRDAO/" target="_blank">
+                            <Link href="https://www.reddit.com/r/XRDAO/" >
                         <a>
                     <Reddit />
                         </a>
                     </Link>
                             
-                        <Link href="https://discord.gg/DPetMTYt" target="_blank"><a>
+                        <Link href="https://discord.gg/DPetMTYt" ><a>
                     <Discord/>
                         </a></Link>
-                        <Link href="https://twitter.com/XRDAO_App" target="_blank">
+                        <Link href="https://twitter.com/XRDAO_App" >
                         <a><Twitter /></a>
                             </Link>
                             </div>

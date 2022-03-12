@@ -99,7 +99,7 @@ function TitleCard() {
     )
 }
 
-function Hero(img) {
+function Hero() {
     const [lastYPos, setLastYPos] = useState(1);
     const [textActive, setTextActive] = useState(true);
     useEffect(() => {
