@@ -87,9 +87,9 @@ function TitleCard(){
                 {/* Learn more button */}
                 <motion.button whileHover={{ scale: 1.2 }}
                     whileTap={{ scale: 0.9 }} className="buttonS">
-                    <Link href="Road_Map">
+                    <Link href="/WhitePaper">
                         <div className="text-center">
-                    <p>Swap</p>
+                    <p>White Paper</p>
                     </div>
                     </Link>
                 </motion.button>
@@ -120,13 +120,13 @@ function InfoSection() {
                 <div className="p-5 flex justify-center">
                     <motion.button whileHover={{ scale: 1.2 }}
                     whileTap={{ scale: 0.9 }} className="buttonS">
-                    <Link href="Road_Map">
-                        <div className="text-center">
-                    <p>White Paper</p>
-                    </div>
+                    <Link href="/WhitePaper">
+                        
+                    <a>White Paper</a>
                     </Link>
                 </motion.button>
-                    </div>
+                        </div>
+                        
                     </div>
     </div>
     <br />
