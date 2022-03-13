@@ -173,26 +173,26 @@ const Footer = () => {
                 <div className="px-5 md:px-10"><Col4/></div>
                 </div>
                 <div className="p-5 flex w-screen space-x-3  md:space-x-10 justify-center">
-                    <Link href="https://twitter.com/XRDAO_App" target="_blank">
+                    <Link href="https://twitter.com/XRDAO_App" >
                         <a><Twitter /></a>
                     </Link>
-                    <Link href="https://medium.com/@xrdao" target="_blank">
+                    <Link href="https://medium.com/@xrdao" >
                         <a>
                             <Medium />
                             </a>
                     </Link>
                     
-                    <Link href="https://www.reddit.com/r/XRDAO/" target="_blank">
+                    <Link href="https://www.reddit.com/r/XRDAO/" >
                         <a>
                     <Reddit />
                         </a>
                     </Link>
 
-                    <Link href="https://t.me/+pOLMTAL7ga9hNWFh" target="_blank"><a>
+                    <Link href="https://t.me/+pOLMTAL7ga9hNWFh" ><a>
                     <Telegram />
                     </a></Link>
 
-                    <Link href="https://discord.gg/DPetMTYt" target="_blank"><a>
+                    <Link href="https://discord.gg/DPetMTYt" ><a>
                     <Discord/>
                         </a></Link>
                 </div>
