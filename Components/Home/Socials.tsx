@@ -67,7 +67,7 @@ function Socials() {
                                 <div className="flex flex-col md:flex-row items-center">
                                     {!isAuthenticated ? (
                                         <div className="px-20 md:px-5 flex flex-col items-center justify-center" >
-                                            <div>
+                                            <div onClick={() => authenticate()}>
                                                 <MetaMask />
                                                 <div className="hidden md:flex md:flex-col space-y-5 text-primary" >
                                                     <p>Download MetaMask for Browser</p>
