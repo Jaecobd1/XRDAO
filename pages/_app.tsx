@@ -14,13 +14,12 @@ function MyApp({ Component, pageProps }: AppProps) {
     <MoralisProvider 
     appId={process.env.NEXT_PUBLIC_APP_ID ?? "AppId Undefined Fallback"} 
     serverUrl={process.env.NEXT_PUBLIC_SERVER_URL ?? "ServerUrl Undefined Fallback"}>
-         <div className="w-screen">
         <Layout>
           
             <Component {...pageProps} />
            
         </Layout>
-        </div>
+  
         </MoralisProvider>
          
     </>
