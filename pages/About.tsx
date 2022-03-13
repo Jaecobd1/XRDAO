@@ -1,13 +1,10 @@
 import Image from 'next/image'
 import Jake from '../Components/Images/Jake.png'
 import Elias from '../Components/Images/Elias.png'
-import * as gtag from '../Components/gtag'
-
 
 
 
 function About() {
-    gtag.event({ action, category, label, value })
     return (
         <div className="w-full text-center h-screen">
             <div>
