@@ -15,8 +15,7 @@ export default function Home() {
   {/* Page Header */}
     <Head>
       <title>XRDAO | Home </title>
-        <meta name="" content="XRDAO HOMEPAGE | " />
-        
+       
     </Head>
 
     <div className="flex flex-col">
