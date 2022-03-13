@@ -9,28 +9,28 @@ import Login from './Login'
 
   
 
-function Button(isMenuActive) {
-    return(
-        <>
-       {!isMenuActive ? ( 
-        <div 
+// function Button(isMenuActive) {
+//     return(
+//         <>
+//        {!isMenuActive ? ( 
+//         <div 
         
-        className="buttonHover" >
-       <MenuImage/>
+//         className="buttonHover" >
+//        <MenuImage/>
 
-       </div>
-       ):(
-        <div 
+//        </div>
+//        ):(
+//         <div 
 
-        className="buttonHover ">
+//         className="buttonHover ">
           
-       <X/>
+//        <X/>
     
-       </div>
-       )}
-        </>
-    )
-};
+//        </div>
+//        )}
+//         </>
+//     )
+// };
 
 //whileHover={{ scale: 1.2 }}
 // whileTap={{ scale: 0.9 }}
@@ -55,7 +55,7 @@ function Nav() {
             
              {!isMenuActive ? ( 
                  <>
-                 <div className="grid sticky top-0 z-40 h-full bg-grey grid-cols-3 w-screen"> 
+                 <div className="grid sticky top-0 z-40 h-1/6 bg-grey grid-cols-3 w-screen"> 
                   <div className="flex items-center contain drop-shadow-lg cursor-pointer px-5 md:px-10">
                     <Link href="/" replace >
                         <a>
