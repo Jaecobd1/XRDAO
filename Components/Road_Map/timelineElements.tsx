@@ -1,7 +1,7 @@
 export const timelineElements = [
     {
         id: 1,
-        title: "XDT ICO",
+        title: "XDT IDO",
         release: "Phase 1.1",
         buttonText: "",
         date: "Q2 2022",
@@ -10,7 +10,7 @@ export const timelineElements = [
       {
         id: 2,
         title: "Username NFTs",
-        release: "Phase 1.5",
+        release: "Phase 1.2",
         buttonText: "",
         date: "Q2 2022",
         description: "We will be hosting an NFT username sale. Proceeds go to the XRDAO pool and will help further fund the project."
@@ -19,7 +19,7 @@ export const timelineElements = [
     {
         id: 3,
         title: "Market place",
-        release: "Phase 1.4",
+        release: "Phase 1.3",
         buttonText: "",
         date: "Q3 2022",
         description: "Buy sell and trade NFTs on multiple different chains. Initially with Ethereum, polygon, binance, and Avalanche, later with IBC blockchain & Solana"
@@ -27,7 +27,7 @@ export const timelineElements = [
      {
         id: 4,
         title: "XRDAO AR Web Dapp",
-        release: "Phase 1.2",
+        release: "Phase 1.4",
         buttonText: "",
         date: "Q4 2022",
         description: "Place NFT within Web AR on a map, Earn XDT for staking NFT. Then view placed NFTs in Augmented Reality."
@@ -36,7 +36,7 @@ export const timelineElements = [
         {
         id: 5,
         title: "DAO",
-        release: "Phase 1.6",
+        release: "Phase 1.5",
         buttonText: "",
         date: "Q4 2022",
         description: "We will be airdropping governance tokens to users who have staked NFTs for over 60 days, Community members will now be able to decide some parts of the future of the DAO."

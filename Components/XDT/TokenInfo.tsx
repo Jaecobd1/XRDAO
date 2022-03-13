@@ -24,7 +24,7 @@ function TokenInfo() {
         },
         {
             parent: "Initial Release",
-            child: "1 Billion XDT",
+            child: "1 Billion XDT on sushiswap",
         },
         {
             parent: "XRDAO Total Locked",
