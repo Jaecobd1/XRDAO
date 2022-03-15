@@ -137,7 +137,7 @@ function Socials() {
                         </a>
                     </Link>
                             
-                        <Link href="https://discord.gg/DPetMTYt" ><a>
+                        <Link href="https://discord.gg/kvh5NpQcFb" ><a>
                     <Discord/>
                         </a></Link>
                         <Link href="https://twitter.com/XRDAO_App" >

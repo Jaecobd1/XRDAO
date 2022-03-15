@@ -192,7 +192,7 @@ const Footer = () => {
                     <Telegram />
                     </a></Link>
 
-                    <Link href="https://discord.gg/DPetMTYt" ><a>
+                    <Link href="https://discord.gg/kvh5NpQcFb" ><a>
                     <Discord/>
                         </a></Link>
                 </div>
