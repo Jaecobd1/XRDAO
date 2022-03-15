@@ -9,7 +9,7 @@ function About() {
         <div className="w-full text-center h-screen">
             <div>
                 <br/>
-                <h1>Founders Dao</h1>
+                <h1>Founders DAO</h1>
                 <br/>
             </div>
             <div className="grid md:grid-cols-3">
@@ -51,7 +51,7 @@ function About() {
             </div>
             <div>
                 <br/>
-                <h1>Developers Dao</h1>
+                <h1>Developers DAO</h1>
                 <div>
                     <br />
                             <h3>We currently have 3 developers but we respect their choice to stay anonymous</h3>

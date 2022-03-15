@@ -30,8 +30,8 @@ function DAO() {
                         The Original DAO is called the Founders DAO, this team will be in charge of getting XRDAO off of the ground and lay the framework for the platform
                         </p>
                     <div />
-                    <p className="text-center p-10"><h2 className="text-2xl">Development DAO</h2><br />This Dao will be comprised of teams for different aspects of our platform</p>
-                    <p className="text-center p-10"><h2 className="text-2xl">Marketing DAO</h2> <br />This Dao will be responsible for all of the creative, marketing, and advertising needs for XRDAO. </p>
+                    <p className="text-center p-10"><h2 className="text-2xl">Development DAO</h2><br />This DAO will be comprised of teams for different aspects of our platform</p>
+                    <p className="text-center p-10"><h2 className="text-2xl">Marketing DAO</h2> <br />This DAO will be responsible for all of the creative, marketing, and advertising needs for XRDAO. </p>
                     <p className="text-center p-10"><h2 className="text-2xl">Innovation DAO</h2> <br /> This DAO will be responsible for future innovation from the organization. This DAO will plan future ideas for XRDAO and submit them to the public to vote on</p>
                       <p className="text-center p-10"><h2 className="text-2xl">Community DAO</h2> <br/> This DAO will be responsable for the future of the platform and the major decisions of the Organization</p>
                 </div>

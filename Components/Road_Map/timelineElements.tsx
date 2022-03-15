@@ -18,7 +18,7 @@ export const timelineElements = [
    
     {
         id: 3,
-        title: "Market place",
+        title: "Market Place",
         release: "Phase 1.3",
         buttonText: "",
         date: "Q3 2022",
